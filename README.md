@@ -1,0 +1,2 @@
+# sozluksuzoku
+Sozluksuzoku Repo
